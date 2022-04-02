@@ -8,4 +8,7 @@
 </a>
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/faacddd0f91346b5a1939d6d2cac8848)](https://www.codacy.com/gh/Govindharaju19/M1_PROJECT_2022/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Govindharaju19/M1_PROJECT_2022&amp;utm_campaign=Badge_Grade)
+
 [![CI](https://github.com/Govindharaju19/M1_PROJECT_2022/actions/workflows/1main.yml/badge.svg)](https://github.com/Govindharaju19/M1_PROJECT_2022/actions/workflows/1main.yml)
+
+[![Git Inspector](https://github.com/Govindharaju19/M1_PROJECT_2022/actions/workflows/git.yml/badge.svg)](https://github.com/Govindharaju19/M1_PROJECT_2022/actions/workflows/git.yml)
