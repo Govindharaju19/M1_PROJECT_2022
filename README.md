@@ -12,3 +12,5 @@
 [![CI](https://github.com/Govindharaju19/M1_PROJECT_2022/actions/workflows/1main.yml/badge.svg)](https://github.com/Govindharaju19/M1_PROJECT_2022/actions/workflows/1main.yml)
 
 [![Git Inspector](https://github.com/Govindharaju19/M1_PROJECT_2022/actions/workflows/git.yml/badge.svg)](https://github.com/Govindharaju19/M1_PROJECT_2022/actions/workflows/git.yml)
+
+[![Unit Testing](https://github.com/Govindharaju19/M1_PROJECT_2022/actions/workflows/unit-test.yml/badge.svg)](https://github.com/Govindharaju19/M1_PROJECT_2022/actions/workflows/unit-test.yml)
